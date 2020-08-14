@@ -1,5 +1,3 @@
-⚠️ This repo is no longer maintained! Please visit https://github.com/PhraseApp-Blog/ for the up-to-date repo.
-
 # How to Internationalize and Localize Your Flask Application
 This tutorial will show you how do internationalization and localization in your Flask application. We are going to make full use of the locale, glob and json modules in creating a multilingual analytic dashboard.
 
